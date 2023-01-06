@@ -1,0 +1,12 @@
+aritfacts
+cache
+coverage
+coverage.json
+deployments
+node_modules
+.env
+.gitignore
+.solhint.json
+package-lock.json
+package.json
+gas-report.txt

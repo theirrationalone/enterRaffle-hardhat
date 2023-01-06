@@ -1,0 +1,38 @@
+{
+  "name": "project-04-raffle-hardhat",
+  "version": "1.0.0",
+  "description": "Raffle/Lottery Smart Contract, Allows to Participate Players into Raffle and Performs Winner Selection in Decentralized way. It assures to choose Winner that is uniquely varifiable!",
+  "main": "scripts/enterRaffle.js",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "keywords": [
+    "Javascript",
+    "Solidity",
+    "Hardhat",
+    "Raffle",
+    "Lottery",
+    "Uniquely-Identifiable",
+    "Uniquely-Verifiable",
+    "Decentralized",
+    "SmartContract",
+    "HybridSmartContract",
+    "Web3",
+    "Backend",
+    "Web3-Project"
+  ],
+  "author": "theirrationalone",
+  "license": "MIT",
+  "devDependencies": {
+    "@chainlink/contracts": "^0.5.1",
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "@nomiclabs/hardhat-ethers": "npm:hardhat-deploy-ethers@^0.3.0-beta.13",
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.12.5",
+    "hardhat-deploy": "^0.11.22",
+    "prettier": "^2.8.1",
+    "prettier-plugin-solidity": "^1.1.1",
+    "solhint": "^3.3.7"
+  }
+}
