@@ -2,16 +2,6 @@
 
 This project demonstrates Raffle Hardhat Project. It comes with a Raffle contract, a test for that contract, and a script that deploys that contract.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
-
 # If You want to run this project on "GOERLI" testnet and don't know how to get Ready Your Project to work with "GOERLI TESTNET" and Having ETH fund/balance Issue. click <a href="https://github.com/theirrationalone/solidity-smart-contract-ethersjs/blob/main/README.md" target="blank">here</a>
 
 <br />
@@ -51,7 +41,7 @@ if you don't have coinmarketcap api key then Go [here](https://pro.coinmarketcap
 # Copy code below, Go to Your Project, Open Terminal then paste it into terminal.
 
 ```shell
-npm install
+npm install --force
 ```
 
 <br />
