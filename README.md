@@ -1,4 +1,4 @@
-# Sample Hardhat Project
+# Enter Raffle/Lottery Hardhat Project
 
 This project demonstrates Raffle Hardhat Project. It comes with a Raffle contract, a test for that contract, and a script that deploys that contract.
 
